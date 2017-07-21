@@ -54,7 +54,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         </activity>
 
         <activity
-            android:name=".Glass"
+            android:name=".glass"
             android:label="Glass By Rinky" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
