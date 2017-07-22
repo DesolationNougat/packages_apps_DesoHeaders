@@ -21,10 +21,10 @@ day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
     <meta-data creator="Rinky McBally" />
-    <day_header hour="5" image="glass1" />
-    <day_header hour="9" image="glass3" />
-    <day_header hour="13" image="glass4" />
-    <day_header hour="16" image="glass5" />
-    <day_header hour="19" image="glass2" />
-    <day_header hour="21" image="glass6" />
+    <hour_header hour="5" image="glass1" />
+    <hour_header hour="9" image="glass3" />
+    <hour_header hour="13" image="glass4" />
+    <hour_header hour="16" image="glass5" />
+    <hour_header hour="19" image="glass2" />
+    <hour_header hour="21" image="glass6" />
 </daylight_headers>
