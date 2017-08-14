@@ -65,7 +65,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
         <activity
             android:name=".blkscorp33"
-            android:label="Deso by BlackScorpion3" >
+            android:label="Chameleon Transparent - BlackScorpion3" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
